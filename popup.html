@@ -2,6 +2,8 @@
 <html>
 <head>
   <title>H2O Reminder</title>
+  <script src="popup.js"></script>
+  <link rel="stylesheet" href="css/popup.css">
 </head>
 <body>
   <h1><span style="color: #2196F3;">H<sub>2</sub>O</span> Reminder Settings</h1>
@@ -12,5 +14,12 @@
   </div>
   <button id="saveButton">Save</button>
   <button id="testButton">Test Reminder</button>
+  <div class="last-saved-section">
+    <p>Last saved interval: <span id="lastSavedInterval">60</span> minutes ago</p>
+  </div>
+  <div class="timer-section">
+    <p>Time remaining until next reminder:</p>
+    <span id="timer">60:00</span>
+  </div>
 </body>
 </html>
