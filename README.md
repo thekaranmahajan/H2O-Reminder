@@ -60,6 +60,7 @@ H<sub>2</sub>O</span> Reminder is a Chrome browser extension designed to promote
   <br>
   <img src="https://github.com/thekaranmahajan/H2O-Reminder/assets/27768620/ece901fc-e8ec-419d-b044-cea6bcf54a1d" alt="Popup Screenshot"/>
 </p>
+<br>
 
 ## Feedback
 
