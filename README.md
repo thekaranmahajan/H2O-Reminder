@@ -1,5 +1,5 @@
 # H2O-Reminder 
-Reminds you to drink water according to interval set by you
+Reminds you to drink water according to time interval set by you
 
 
 <p align="center">
